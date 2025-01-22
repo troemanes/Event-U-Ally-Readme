@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Event-U-Ally: Readme</title>
-</head>
 <body>
+    
+  <h1>Event-U-Ally</h1>
+  <img src="https://github.com/user-attachments/assets/ac6e1af8-0bbb-4950-b1d7-4832d6e72b4c" alt="logo" width="30%">
+ 
+---
 
    <h1><strong>Before Start</strong></h1>
     "Eventually" is my first and biggest project. I started coding to turn this idea into reality. I worked on it for over two years, building everything from the ground up. During this time, I learned so much. Unfortunately, while I was learning and developing, Google updated its Firebase tools and other services. As a beginner, I couldn’t find solutions to these changes because they were so new, and there weren’t any resources or tutorials available online or on YouTube.
